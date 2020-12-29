@@ -29,10 +29,20 @@ h1{
   width: 100%;
   font-family: Helvetica;
   margin-right: auto;
-  margin-left: auto;
-  color: white;
+  margin-left: auto  color: white;
   background-color: grey;
   border: 1px solid black;
+}
+
+#first{
+  color: white;
+}
+
+#second{
+  color: lightgrey;
+}
+#third{
+  color: pink;
 }
 
 /* Simple Responsive Framework. */
